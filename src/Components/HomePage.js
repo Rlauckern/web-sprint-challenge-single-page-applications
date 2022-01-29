@@ -5,7 +5,7 @@ const HomePage = () => {
         <div className="home-wrapper">
             <h1>Belchworthy BloomTech Pizza!!</h1>
             <img src="./pizza.jpg" />
-            <p>Where your pizza dreams come true</p>
+            <p>Pizza For The Masses!!</p>
         </div>
     )
 }
